@@ -22,7 +22,7 @@
         <curator.version>2.10.0</curator.version>
         <quartz.version>2.2.1</quartz.version>
         <webmagic.version>0.7.2</webmagic.version>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <hbase.version>1.2.2</hbase.version>
         <spring-data-hadoop.version>2.4.0.RELEASE</spring-data-hadoop.version>
     </properties>
